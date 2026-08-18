@@ -77,7 +77,7 @@ var APP_DATA = {
           "yaw": 1.4270325923735605,
           "pitch": 0.3388448838952556,
           "rotation": 0,
-          "target": "1-utility"
+          "target": "0-boot"
         }
       ],
       "infoHotspots": []
@@ -277,7 +277,7 @@ var APP_DATA = {
           "yaw": 1.2045055833064904,
           "pitch": 0.8627582912896603,
           "rotation": 0,
-          "target": "2-dinner"
+          "target": "3-dinner-2"
         }
       ],
       "infoHotspots": []
@@ -454,6 +454,12 @@ var APP_DATA = {
           "pitch": 0.6804933229857575,
           "rotation": 2.356194490192345,
           "target": "6-landing-2"
+        },
+        {
+          "yaw": -2.4059901968008717,
+          "pitch": 0.7100684717961272,
+          "rotation": 0,
+          "target": "8-bathroom-1"
         }
       ],
       "infoHotspots": []
